@@ -1,0 +1,18 @@
+Setting up the necessary tools
+It is highly recommended to set up the necessary tools in an environment. This guarantees stability of the pipeline and its dependencies. 
+
+Install miniconda3
+
+-download miniconda3 https://docs.conda.io/en/latest/miniconda.html ensuring that you are running python version >3.
+
+Once you download the installer, run the command below to install conda…
+
+bash Miniconda3-latest-Linux-x86_64.sh
+
+create an environment
+Tools required:
+trimmomatic - http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf 
+fastqc
+bwa - http://bio-bwa.sourceforge.net/bwa.shtml 
+samtools - http://www.htslib.org/doc/samtools.html 
+ivar - https://github.com/andersen-lab/ivar#readme
