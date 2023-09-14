@@ -21,5 +21,5 @@ https://www.bv-brc.org/
 # Publication
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10021577/
 # Supervisor
-Kimita Gathii
-Feel free to explore the provided tools and methodology for your own research or to gain insights into our DENV3 analysis.
+- Kimita Gathii
+- Feel free to explore the provided tools and methodology for your own research or to gain insights into our DENV3 analysis.
