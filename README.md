@@ -21,14 +21,3 @@ https://www.bv-brc.org/
 # Publication
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10021577/
 Feel free to explore the provided tools and methodology for your own research or to gain insights into our DENV3 analysis.
-
-
-
-
-
-#Tools required
-trimmomatic - http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf 
-fastqc
-bwa - http://bio-bwa.sourceforge.net/bwa.shtml 
-samtools - http://www.htslib.org/doc/samtools.html 
-ivar - https://github.com/andersen-lab/ivar#readme
